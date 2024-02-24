@@ -4,7 +4,7 @@
   <groupId>com.java</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -23,7 +23,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.201.125.187:8081/repository/mavenwebapp/</url>
+	      <url>http://13.233.172.59:8081/repository/samplejavaapp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
